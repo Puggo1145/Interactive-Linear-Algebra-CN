@@ -21,10 +21,10 @@ Free Documentation License"
   <book xml:id="index">
 
     <restrict-version versions="default">
-      <title>Interactive Linear Algebra</title>
+      <title>交互线性代数</title>
     </restrict-version>
     <restrict-version versions="1553">
-      <title>Interactive Linear Algebra [1553]</title>
+      <title>交互线性代数 [1553]</title>
     </restrict-version>
 
     <!-- Title Page, Preface, etc. -->
