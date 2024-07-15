@@ -3,6 +3,7 @@
 import atexit
 import os
 
+
 AddOption('--build-pdf',
           dest='build_pdf',
           action='store_true',

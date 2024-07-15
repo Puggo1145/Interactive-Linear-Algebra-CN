@@ -46,7 +46,7 @@ the license is included in gfdl.xml.
       <holder>佐治亚理工学院（Georgia Institute of Technology）</holder>
       <minilicense>GFDL License</minilicense>
       <shortlicense> 本教材允许根据 GNU Free Documentation 许可证 1.3 版或由 the Free Software Foundation
-        发布的任何更高版本的条款来复制、分发和/或修改本教材；无需不变动章节、封面文字和封底文字。许可证的副本包含在名为 <q>GNU Free Documentation License.</q> 的章节中
+        发布的任何更高版本的条款来复制、分发和/或修改本教材；允许变动章节、封面文字和封底文字。许可证的副本包含在名为 <q>GNU Free Documentation License.</q> 的章节中
         所有商标<trademark /> 均为其各自所有者的注册商标<registered />
       </shortlicense>
     </copyright>
@@ -134,20 +134,16 @@ the license is included in gfdl.xml.
   </preface>
 
   <preface>
-    <title>Variants of this textbook</title>
+    <title>本教材的其他版本</title>
 
-    <p> There are several variants of this textbook available. <ul>
-        <li> The <url href="/ila">master version</url> is the default version of the book. </li>
-        <li> The <url href="/ila/1553">version for math 1553</url> is fine-tuned to contain only the
-      material covered in Math 1553 at Georgia Tech. </li>
-      </ul> The section numbering is
-      consistent across versions. This explains why Section 6.3 does not exist in the Math 1553
-      version, for example. </p>
-
-    <p> You are currently viewing the <restrict-version versions="default">
-        <em>master version</em>. </restrict-version>
+    <p> 该教材还有一些其他版本 <ul>
+        <li> <url href="/ila">master 版本</url> 是本书的默认版本 </li>
+        <li> <url href="/ila/1553">math 1553 版本</url> 是一个仅包含佐治亚理工学院数学 1553 课程内容的微调版 </li>
+      </ul> 各版本之间的章节编号是一致的。这就解释了为什么 Math 1553 版本中没有 6.3 节 </p>
+    <p> 你现在正在看的是 <restrict-version versions="default">
+        <em>master 版本</em>. </restrict-version>
       <restrict-version versions="1553">
-        <em>version for math 1553</em>. </restrict-version>
+        <em>math 1553 版本</em>. </restrict-version>
     </p>
 
   </preface>
